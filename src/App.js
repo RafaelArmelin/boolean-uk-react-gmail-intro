@@ -1,4 +1,7 @@
 import "./App.css";
+import "./stylesheets/Header.css";
+import "./stylesheets/Main.css";
+import "./stylesheets/Nav.css";
 
 import Header from "./components/Header";
 import Nav from "./components/Nav";
